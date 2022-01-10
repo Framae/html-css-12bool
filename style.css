@@ -5,10 +5,17 @@
 }
 
 .container {
-    background-color: pink
-    min-height: 100px;
+    background-color: pink;
+    min-height: 520px;
 }
 
 .box {
-    
+    min-height: 50px;
+    line-height: 50px;
+    background-color: royalblue;
+    border: 1px solid white;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    font-size: 20px;
 }
