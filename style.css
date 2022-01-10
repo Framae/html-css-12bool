@@ -5,6 +5,10 @@
 }
 
 .container {
-    background-color: blue;
+    background-color: pink
     min-height: 100px;
+}
+
+.box {
+    
 }
