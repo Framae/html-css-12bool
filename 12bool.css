@@ -13,6 +13,10 @@
     flex-wrap: wrap;
 }
 
+/* .box {
+    display: flex;
+} */
+
 /* regole per colonne */
 
 .col-1 {
