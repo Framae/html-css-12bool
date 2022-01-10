@@ -10,20 +10,18 @@
     margin-bottom: 20px;
 }
 
-.box {
-    min-height: 50px;
-    line-height: 50px;
-    background-color: royalblue;
-    border: 1px solid white;
-    text-align: center;
-    vertical-align: middle;
-    color: white;
-    font-size: 20px;
-}
-
 .smallbox {
     background-color: green;
-    width: 80%;
-    min-height: 40px;
+    min-height: 35px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 10px 2px;
+}
+
+.box-container {
+    width: 97%;
     margin: auto;
+    display: flex;
+    justify-content: center;
 }

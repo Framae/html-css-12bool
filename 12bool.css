@@ -13,9 +13,17 @@
     flex-wrap: wrap;
 }
 
-/* .box {
+.box {
     display: flex;
-} */
+    justify-content: center;
+    min-height: 50px;
+    line-height: 50px;
+    background-color: royalblue;
+    border: 1px solid white;
+    vertical-align: middle;
+    color: white;
+    font-size: 20px;
+}
 
 /* regole per colonne */
 
